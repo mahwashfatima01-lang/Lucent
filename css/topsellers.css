@@ -80,6 +80,11 @@ h1 {
     margin-right: 10%;
 }
 
+h5 {
+    color: rgb(83, 83, 83);
+    font-size: 25px;
+}
+
 .describtion {
     text-align: center;
     align-content: center;
