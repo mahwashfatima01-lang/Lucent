@@ -40,13 +40,13 @@ a, a:visited {
     border-width: 1px;
     border-color: gray;
     border-radius: 15px;
-    }
+}
 
 .search_bar:focus {
     outline: auto;
     outline-width: 1px;
     outline-color: gray;
-    }
+}
 
 .heading {
     width: 100%;
@@ -54,7 +54,7 @@ a, a:visited {
     align-items: left;
     text-align: left;
     padding: 30px;
-    }
+}
 
 .line {
     display: block;
@@ -62,7 +62,7 @@ a, a:visited {
     background-color: rgb(83, 83, 83);
     height: 0.5px;
     width: 600px;
-    }
+}
 
 .heading-text {
     margin-left: 30px;
@@ -192,9 +192,6 @@ a, a:visited {
     cursor: pointer;
 }
 
-
-
-
 .footer {
     position: relative;
     flex-direction: column;
@@ -205,7 +202,7 @@ a, a:visited {
     background-color: rgb(172, 188, 172);
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    }
+}
 
 .footer-logo {
     display: flex;
@@ -213,14 +210,14 @@ a, a:visited {
     top: -2%;
     left: 50%;
     transform: translate(-50%, -50%);
-    }
+}
 
 .footer-icons {
     position: absolute;
     top: 38%;
     left: 51.5%;
     transform: translate(-50%, -50%);
-    }
+}
 
 .footer-items {
     position: absolute;
@@ -229,11 +226,11 @@ a, a:visited {
     top: 66%;
     left: 51.5%;
     transform: translate(-50%, -50%);
-    }
+}
 
 .footer-line {
     position: absolute;
     top: 50%;
     left: 51.5%;
     transform: translate(-50%, -50%);
-    }
+}
