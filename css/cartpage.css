@@ -86,6 +86,7 @@ a, a:visited {
 .cart {
     display: flex;
     flex-direction: row;
+    width: 100%;
 }
 
 .products {
