@@ -51,7 +51,7 @@ a:hover {
     outline-color: gray;
 }
 
-.homepage_img {
+.index_img {
     display: flex;
     flex-direction: column;
     position: relative;
