@@ -19,5 +19,5 @@ document.getElementById('signup-form').addEventListener('submit', function(e) {
     localStorage.setItem('user', JSON.stringify(user));
     
     alert('Account created successfully!');
-    window.location.href = 'homepage.html'; // Redirect to home page
+    window.location.href = 'index.html'; // Redirect to home page
 });

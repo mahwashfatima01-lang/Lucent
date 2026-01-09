@@ -11,7 +11,7 @@ document.getElementById('login-form').addEventListener('submit', function(e) {
     // Check if credentials match
     if (savedUser && savedUser.email === email && savedUser.password === password) {
         alert('Login successful! Welcome ' + savedUser.firstName);
-        window.location.href = 'homepage.html'; // Redirect to home page
+        window.location.href = 'index.html'; // Redirect to home page
     } else {
         alert('Invalid email or password!');
     }
